@@ -23,3 +23,6 @@ The [Final Solution](solution) - Can be found here.
 - Google's Write your first Flutter App: [https://flutter.dev/docs/get-started/codelab](https://flutter.dev/docs/get-started/codelab)
 
 > Written with [StackEdit](https://stackedit.io/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk5NTI3MTM3Nl19
+-->
