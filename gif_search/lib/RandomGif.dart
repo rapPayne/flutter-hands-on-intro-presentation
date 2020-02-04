@@ -10,6 +10,8 @@ class RandomGif extends StatefulWidget {
 
 class _RandomGifState extends State<RandomGif> {
   String _gifUrl = "";
+  String _searchString = "";
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -18,7 +20,13 @@ class _RandomGifState extends State<RandomGif> {
       ),
       body: Column(
         children: <Widget>[
-          Text("I'm a widget $_gifUrl"),
+TextFormField(
+  onChanged: (val) =>  _searchString = val,
+  decoration: InputDecoration(
+    labelText: 'What would you like to see?',
+    hintText: "eg. 'Simpsons', 'LOLcats', 'Post Malone', etc.",
+  ),
+),
           (_gifUrl.length > 0) ? Image.network(_gifUrl) : Spacer(),
         ],
       ),
@@ -27,7 +35,7 @@ class _RandomGifState extends State<RandomGif> {
         onPressed: () async {
           print('I got pressed $giphyApiKey');
           String url =
-              'https://api.giphy.com/v1/gifs/random?api_key=$giphyApiKey&rating=g';
+              'https://api.giphy.com/v1/gifs/random?api_key=$giphyApiKey&tag=$_searchString&rating=g';
           Response res = await get(url);
           Map<String, dynamic> body = json.decode(res.body);
           String imageUrl = body['data']['image_url'];
