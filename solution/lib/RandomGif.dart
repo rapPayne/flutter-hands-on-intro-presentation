@@ -35,10 +35,7 @@ class _RandomGifState extends State<RandomGif> {
       )),
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.search),
-        onPressed: () {
-          print('pressed');
-          getRandomImage();
-        },
+        onPressed: () => getRandomImage(),
       ),
     );
   }
