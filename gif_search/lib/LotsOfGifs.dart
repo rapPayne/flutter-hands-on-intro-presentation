@@ -9,7 +9,7 @@ class LotsOfGifs extends StatefulWidget {
 }
 
 class _LotsOfGifsState extends State<LotsOfGifs> {
-  List<String> _gifUrls = [""];
+  List<String> _gifUrls = [];
   String _searchString = "";
 
   @override
@@ -27,7 +27,11 @@ class _LotsOfGifsState extends State<LotsOfGifs> {
               hintText: "eg. 'Simpsons', 'LOLcats', 'Post Malone', etc.",
             ),
           ),
-          (_gifUrls[0].length > 0) ? Image.network(_gifUrls[0]) : Spacer(),
+          Expanded(
+            child: ListView.builder(
+                itemCount: _gifUrls.length,
+                itemBuilder: (ctx, i) => Image.network(_gifUrls[i])),
+          ),
         ],
       ),
       floatingActionButton: FloatingActionButton(
