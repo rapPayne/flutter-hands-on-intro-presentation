@@ -10,9 +10,12 @@ I'd love to connect with you to provide any help I can with learning Flutter. Pl
 - Github: [RapPayne](https://github.com/rapPayne)
 - Web: AgileGadgets.com
 
-## Solution
+## Solutions
 
 The [Final Solution](solution) - Can be found here.
+
+## Starters
+If you'd like to code along
 
 
 
@@ -24,5 +27,5 @@ The [Final Solution](solution) - Can be found here.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODI3NTI3M119
+eyJoaXN0b3J5IjpbLTExMTk3MjgyODcsMTg1ODI3NTI3M119
 -->
