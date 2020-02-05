@@ -19,6 +19,7 @@ We have saved versions of the solutions at certain spots. To get to a starter/ch
 
     git checkout <branch_name>
 The branches are as follows:
+
 |branch|description  |
 |---|---|
 | 01_initial_project | Bare bones project |
@@ -36,7 +37,7 @@ The branches are as follows:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNTEzNjIwLC05MTA4MDgyNjYsLTM2Mz
-k1MjAxOCwxMjQ5NDYzMzQxLC0xNjMwNTcxMjM5LDE4NTgyNzUy
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTEyMjU1MTU3NzQsOTQyNTEzNjIwLC05MT
+A4MDgyNjYsLTM2Mzk1MjAxOCwxMjQ5NDYzMzQxLC0xNjMwNTcx
+MjM5LDE4NTgyNzUyNzNdfQ==
 -->
