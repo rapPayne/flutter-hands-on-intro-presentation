@@ -25,7 +25,8 @@ The branches are as follows:
 |--|--|
 | 01_initial_project | Bare bones project |
 | 02_show_random_image | Makes an API request, parses the response and displays an image from the Internet.
-| 03_get_user_input | 
+| 03_get_user_input | Adds a textbox for the user to enter a search string.
+
 
 
 
@@ -37,6 +38,6 @@ The branches are as follows:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MjczOTE5LDEyNDk0NjMzNDEsLTE2Mz
-A1NzEyMzksMTg1ODI3NTI3M119
+eyJoaXN0b3J5IjpbLTM2Mzk1MjAxOCwxMjQ5NDYzMzQxLC0xNj
+MwNTcxMjM5LDE4NTgyNzUyNzNdfQ==
 -->
