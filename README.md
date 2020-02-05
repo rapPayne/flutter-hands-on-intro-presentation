@@ -22,9 +22,9 @@ The branches are as follows:
 |----------|----------------------------------------------------|
 | branch | description |
 
-|branch|  |
+|branch|description  |
 |--|--|
-|  |  |
+| 01_initial_project |  |
 
 
 
@@ -36,5 +36,6 @@ The branches are as follows:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA1NzEyMzksMTg1ODI3NTI3M119
+eyJoaXN0b3J5IjpbMTI0OTQ2MzM0MSwtMTYzMDU3MTIzOSwxOD
+U4Mjc1MjczXX0=
 -->
