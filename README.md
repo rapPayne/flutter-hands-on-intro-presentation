@@ -15,7 +15,9 @@ I'd love to connect with you to provide any help I can with learning Flutter. Pl
 The [Final Solution](solution) - Can be found here.
 
 ## Starters and checkpoints
-We have saved versions of the solutions at certain spots. To get to a 
+We have saved versions of the solutions at certain spots. To get to a starter/checkpoint, clone this repository and do this:
+
+    git checkout <branch_name>
 
 
 
@@ -27,5 +29,5 @@ We have saved versions of the solutions at certain spots. To get to a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMjU0NjksMTg1ODI3NTI3M119
+eyJoaXN0b3J5IjpbMjIyODc1NDM0LDE4NTgyNzUyNzNdfQ==
 -->
