@@ -18,7 +18,7 @@ The [Final Solution](solution) - Can be found here.
 We have saved versions of the solutions at certain spots. To get to a starter/checkpoint, clone this repository and do this:
 
     git checkout <branch_name>
-The branches are as follows:
+When you do that, you'll see a project called gif_search. The branches are as follows:
 
 |branch|description  |
 |---|---|
@@ -37,7 +37,7 @@ The branches are as follows:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU1MTU3NzQsOTQyNTEzNjIwLC05MT
-A4MDgyNjYsLTM2Mzk1MjAxOCwxMjQ5NDYzMzQxLC0xNjMwNTcx
-MjM5LDE4NTgyNzUyNzNdfQ==
+eyJoaXN0b3J5IjpbMTQ2OTY1MzgzNiwtMTIyNTUxNTc3NCw5ND
+I1MTM2MjAsLTkxMDgwODI2NiwtMzYzOTUyMDE4LDEyNDk0NjMz
+NDEsLTE2MzA1NzEyMzksMTg1ODI3NTI3M119
 -->
