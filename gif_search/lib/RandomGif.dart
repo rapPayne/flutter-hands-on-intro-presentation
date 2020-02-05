@@ -20,13 +20,13 @@ class _RandomGifState extends State<RandomGif> {
       ),
       body: Column(
         children: <Widget>[
-TextFormField(
-  onChanged: (val) =>  _searchString = val,
-  decoration: InputDecoration(
-    labelText: 'What would you like to see?',
-    hintText: "eg. 'Simpsons', 'LOLcats', 'Post Malone', etc.",
-  ),
-),
+          TextFormField(
+            onChanged: (val) => _searchString = val,
+            decoration: InputDecoration(
+              labelText: 'What would you like to see?',
+              hintText: "eg. 'Simpsons', 'LOLcats', 'Post Malone', etc.",
+            ),
+          ),
           (_gifUrl.length > 0) ? Image.network(_gifUrl) : Spacer(),
         ],
       ),
