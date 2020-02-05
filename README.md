@@ -20,7 +20,7 @@ We have saved versions of the solutions at certain spots. To get to a starter/ch
     git checkout <branch_name>
 The branches are as follows:
 |branch|description  |
-|--|--|
+|---|---|
 | 01_initial_project | Bare bones project |
 | 02_show_random_image | Makes an API request, parses the response and displays an image from the Internet.|
 | 03_get_user_input | Adds a TextInputField for the user to enter a search string.|
@@ -36,6 +36,7 @@ The branches are as follows:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDgwODI2NiwtMzYzOTUyMDE4LDEyND
-k0NjMzNDEsLTE2MzA1NzEyMzksMTg1ODI3NTI3M119
+eyJoaXN0b3J5IjpbOTQyNTEzNjIwLC05MTA4MDgyNjYsLTM2Mz
+k1MjAxOCwxMjQ5NDYzMzQxLC0xNjMwNTcxMjM5LDE4NTgyNzUy
+NzNdfQ==
 -->
