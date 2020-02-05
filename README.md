@@ -18,6 +18,13 @@ The [Final Solution](solution) - Can be found here.
 We have saved versions of the solutions at certain spots. To get to a starter/checkpoint, clone this repository and do this:
 
     git checkout <branch_name>
+The branches are as follows:
+|----------|----------------------------------------------------|
+| branch | description |
+
+|branch|  |
+|--|--|
+|  |  |
 
 
 
@@ -29,5 +36,5 @@ We have saved versions of the solutions at certain spots. To get to a starter/ch
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyODc1NDM0LDE4NTgyNzUyNzNdfQ==
+eyJoaXN0b3J5IjpbLTE2MzA1NzEyMzksMTg1ODI3NTI3M119
 -->
