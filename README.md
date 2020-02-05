@@ -15,7 +15,7 @@ I'd love to connect with you to provide any help I can with learning Flutter. Pl
 The [Final Solution](solution) - Can be found here.
 
 ## Starters
-If you'd like to code along
+If you'd like to code along and 
 
 
 
@@ -27,5 +27,5 @@ If you'd like to code along
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk3MjgyODcsMTg1ODI3NTI3M119
+eyJoaXN0b3J5IjpbLTE1MTk2MTQxOTAsMTg1ODI3NTI3M119
 -->
