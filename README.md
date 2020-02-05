@@ -24,10 +24,10 @@ The branches are as follows:
 |branch|description  |
 |--|--|
 | 01_initial_project | Bare bones project |
-| 02_show_random_image | Makes an API request, parses the response and displays an image from the Internet.
-| 03_get_user_input | Adds a TextInputField for the user to enter a search string.
-| 04_stack_navigation | Adds another widget and allows the user to navigat
-
+| 02_show_random_image | Makes an API request, parses the response and displays an image from the Internet.|
+| 03_get_user_input | Adds a TextInputField for the user to enter a search string.|
+| 04_stack_navigation | Adds another widget and allows the user to navigate back and forth between them.|
+| 05_scrollable_listview | Retrieves multiple images and allows the user to scroll through them.|
 
 
 ## Other cool resources
@@ -38,6 +38,6 @@ The branches are as follows:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjUyNDA2NjgsLTM2Mzk1MjAxOCwxMj
-Q5NDYzMzQxLC0xNjMwNTcxMjM5LDE4NTgyNzUyNzNdfQ==
+eyJoaXN0b3J5IjpbNzMxMTkyNTk0LC0zNjM5NTIwMTgsMTI0OT
+Q2MzM0MSwtMTYzMDU3MTIzOSwxODU4Mjc1MjczXX0=
 -->
